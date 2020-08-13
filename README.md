@@ -1,3 +1,7 @@
+TO DO APP
+
+In repo there is backend version of this app made with MongoDB.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
